@@ -1,0 +1,19 @@
+.md-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.11);
+}
+
+.md-footer-nav {
+    background-color: white;
+}
+
+.md-footer-meta {
+    background-color: rgba(0, 0, 0, 0.06);
+}
+
+.md-footer-nav, .md-footer-copyright__highlight, html .md-footer-meta.md-typeset a {
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.md-footer-nav__direction, .md-footer-copyright, html .md-footer-meta.md-typeset a:focus, html .md-footer-meta.md-typeset a:hover {
+    color: rgba(0, 0, 0, 0.44);
+}
